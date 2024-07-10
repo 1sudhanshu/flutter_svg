@@ -5,7 +5,7 @@ import 'package:flutter/widgets.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:http/http.dart' as http;
+import 'package:tt_http/http.dart' as http;
 
 class _TolerantComparator extends LocalFileComparator {
   _TolerantComparator(Uri testFile) : super(testFile);

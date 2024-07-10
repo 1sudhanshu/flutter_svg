@@ -2,7 +2,7 @@ import 'dart:ui' as ui;
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
-import 'package:http/http.dart' as http;
+import 'package:tt_http/http.dart' as http;
 import 'package:vector_graphics/vector_graphics_compat.dart';
 
 import 'src/cache.dart';
